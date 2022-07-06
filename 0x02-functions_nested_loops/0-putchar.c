@@ -1,4 +1,4 @@
-#include "svariables.h"
+#include "main.h"
 /**
  * main - prints the string "_putchar" m a character array.
  * Return: 0 on success.
