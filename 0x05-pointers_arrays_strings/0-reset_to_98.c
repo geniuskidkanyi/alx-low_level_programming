@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * reset_to_98 - function with void reset_to_98(int *n);
  * @n: int type pointer n
