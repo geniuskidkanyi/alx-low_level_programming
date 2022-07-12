@@ -1,8 +1,11 @@
-#include "holberton.h"
+#include "main.h"
+
 /**
  * _atoi - int _atoi(char *s);
- * @s: the string to convert
- * Return: the converted string.
+ * @s: char type pointer argument
+ *
+ * Description: convert a string to an integer
+ * Return: value of s
  */
 int _atoi(char *s)
 {
