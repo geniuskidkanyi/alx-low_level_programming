@@ -4,7 +4,7 @@
  * _puts - void _puts(char *str);
  * @str: one char type argument
  *
- * Description: function that prints a string, 
+ * Description: function that prints a string,
  * followed by a new line, to stdout
  * Return: none
  */
