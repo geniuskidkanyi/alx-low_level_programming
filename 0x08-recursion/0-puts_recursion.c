@@ -8,7 +8,6 @@
  * followed by a new line.
  * Return: On success 1.
  */
-
 void _puts_recursion(char *s)
 {
 	if (*s == 0)
